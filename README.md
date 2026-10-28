@@ -4,6 +4,14 @@ An interactive, arcade-inspired dance experience built with **HTML, CSS, JavaScr
 
 Originally developed as a collaborative interactive-design project by **Elise Chang and Prajanya Kannan**. This portfolio fork preserves the original project's history and contributors.
 
+## Watch the demo and explore the design
+
+**[Watch the full gameplay demonstration (Google Drive)](https://drive.google.com/file/d/1gWpuEJsmHOSwloHKTczhwsdhtDDkubiA/view?usp=sharing)** · **[View the illustrated project documentation (Google Docs)](https://docs.google.com/document/d/1E0lAbQ9h2jfGks_A9EogZ3yr-871Zwn4YiF5J2TI5to/edit)**
+
+The demonstration shows the original interactive prototype in action. The documentation includes screenshots of all six themed worlds, animated portal transitions, the soundtrack-selection interface, and character gameplay, along with an explanation of the design process and implementation decisions.
+
+These resources are viewable by anyone with their links. The demo video is hosted on Google Drive rather than embedded in the repository. The written documentation is also hosted on Google Drive and can be viewed without downloading the Git LFS media assets.
+
 ## How it works
 
 - **Arcade-style navigation:** Animated title sequence, themed world selector, portal previews, and progress tracking.
